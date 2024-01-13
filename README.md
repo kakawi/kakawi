@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Hleb 👋 🙂 💻
 
-<!--
-**kakawi/kakawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👔 I'm Senior Software Engineer [Backend]
 
-Here are some ideas to get you started:
+Based in Vancouver, BC, and eligible to work in Canada 🇨🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 10 years of experience as a software engineer 💎
+
+I like being part of an international tech-team building great products, passionate to create and innovate. I like working for a fast agile company which is growing rapidly. I'm excited about transforming an industry, being part of an innovative culture, and making a positive impact on the environment 🚀
+
+<details>
+  <summary>
+    <sub><sup><i>All the software, technologies, skills, and knowledge I have ever used during my software engineering career (click to expand)</i></sup></sub>
+  </summary>
+  <sub><sup>
+    Java, PHP, JavaScript, TypeScript
+    Spring, Google Guice, Dropwizard
+    React.js
+    Docker, Kubernetes
+    SQL, PostgreSQL, MySQL, MariaDB,
+    Microsoft Azure, Amazon Web Services (AWS)
+    Unix, Linux
+    REST, gRPC, GraphQL
+    Github
+    Kafka
+  </sup></sub>
+</details>
+
+## Contact me 📨
+
+[LinkedIn](https://www.linkedin.com/in/hleb-bandarenka/) 💼
