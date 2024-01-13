@@ -2,6 +2,8 @@
 
 ### 👔 I'm Senior Software Engineer [Backend]
 
+![](https://raw.githubusercontent.com/kakawi/kakawi/main/Developer.webp)
+
 Based in Vancouver, BC, and eligible to work in Canada 🇨🇦
 
 I have 10 years of experience as a software engineer 💎
